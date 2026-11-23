@@ -1,0 +1,1 @@
+{"weather_adjusted": true, "features": ["lag0", "lag1", "lag2", "lag3", "lag4", "lag5", "lag6", "roll7", "roll30", "std7", "dow", "month", "doy_sin", "doy_cos", "diwali", "city_cat", "temp_mean", "precip_sum", "wind_max", "rh_mean", "pressure_mean"]}
