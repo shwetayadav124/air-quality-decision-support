@@ -1,0 +1,18 @@
+{
+  "weather_adjusted": true,
+  "n_cities": 23,
+  "lockdown_window": [
+    "2020-03-25",
+    "2020-05-31"
+  ],
+  "median_effect_pct": -27.2,
+  "mean_effect_pct": -26.4,
+  "median_naive_yoy_pct": -35.8,
+  "cities_significant_drop": 22,
+  "cities_beyond_placebo": 14,
+  "placebo_95_band_pct": [
+    -25.8,
+    24.4
+  ],
+  "placebo_median_abs_pct": 9.1
+}
