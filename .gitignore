@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# large / generated files are not committed - see data/README.md and README.md
+data/*.csv
+data/*.parquet
+outputs/*.parquet
